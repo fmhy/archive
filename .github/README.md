@@ -1,5 +1,8 @@
 # FMHYedit
 
+> [!WARNING]
+> This is a read-only copy of the old fmhyedit repository, whose state was reset due to its concerning repository size. You should be on https://github.com/fmhy/fmhyedit.
+
 ![FMHY Banner](https://external-preview.redd.it/new-fmhy-website-v0-siM0tvJb685u2tZSfXkrpRANBH2IrPuVPDYmNA5Mkv0.jpg?auto=webp&s=a3185c2493e1c4da71863362f10b03c57e232974)
 
 **The largest collection of free stuff on the internet!**
