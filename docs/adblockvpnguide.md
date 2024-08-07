@@ -285,7 +285,7 @@
 * ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA
 * ⭐ **[AuthenticatorPro](https://authenticatorpro.jmh.me)** - Android 2FA
 * ⭐ **[HaveIBeenPwned PW](https://haveibeenpwned.com/Passwords)** - Password Breach Check
-* ⭐ **[Password Strength Chart](https://ibb.co/RCp54sb)**
+* ⭐ **[Password Strength Chart](https://i.ibb.co/y8n3BZP/Hive-Systems-Password-Table-2024-Square.png)** / [2](https://i.imgur.com/g4NcQKd.png)
 * [2FAS](https://2fas.com/) - Android / iOS 2FA / [Discord](https://discord.gg/q4cP6qh2g5)
 * [Mauth](https://github.com/X1nto/Mauth) - Android 2FA
 * [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - Android 2FA
